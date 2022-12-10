@@ -8,7 +8,7 @@
 <!-- 统一spring的jar包版本，并定义字符编码 -->
 <properties>
 	<project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
-	<zfg.spring.version>4.3.6.RELEASE</zfg.spring.version>	
+	<zfg.spring.version>6.0.0</zfg.spring.version>	
 </properties>
 
 
